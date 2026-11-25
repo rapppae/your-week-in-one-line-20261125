@@ -6,7 +6,7 @@
 
 Bounty: https://make.fun/bounty/u-boge-your-week-in-one-line-d1c14ced
 
-> Shipped three fixes, broke production twice, apologised in four languages, still standing. Mostly.
+> Shipped three fixes, broke production twice, apologised in four languages. Still standing. Mostly.
 
 ## Run
 

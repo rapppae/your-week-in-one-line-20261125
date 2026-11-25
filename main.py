@@ -5,7 +5,7 @@ Entry text: 98 characters (limit 100).
 
 import os
 
-ENTRY = 'Shipped three fixes, broke production twice, apologised in four languages, still standing. Mostly.'
+ENTRY = 'Shipped three fixes, broke production twice, apologised in four languages. Still standing. Mostly.'
 
 
 def main():
